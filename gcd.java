@@ -8,6 +8,7 @@ public class gcd {
 		System.out.println("Enter the 2 number\n");
 		a=sc.nextInt();
 		b=sc.nextInt();
+		System.out.println("hello");
 		Boolean flag=true;
 		while(flag) {
 			rem=a%b;
